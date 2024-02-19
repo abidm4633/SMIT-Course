@@ -1,0 +1,20 @@
+/* .mynav{
+
+} */
+ul{
+    margin-left: 560px
+}
+.button2{
+    margin-left: 10px;
+}
+.button3{
+    margin-left: 10px;
+}
+
+/* hero-section */
+
+.hero-section{
+    background-image: url(https://s.rozee.pk/v6/i/banner_bg.webp);
+    background-size: contain;
+    height: 400px;
+}
